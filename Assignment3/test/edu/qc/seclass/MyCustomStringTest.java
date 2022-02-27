@@ -107,7 +107,7 @@ public class MyCustomStringTest {
         assertEquals("aol3 rn ohdow!", mycustomstring.getEveryNthCharacterFromBeginningOrEnd(3, true));
     }
 
-    //test to print out the entire string by itteration
+    //test to print out the entire string by itteration1
     @Test
     public void testGetEveryNthCharacterFromBeginningOrEnd9() {
         mycustomstring.setString("Print me out completley");
